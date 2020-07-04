@@ -1,0 +1,764 @@
+match_date,Ground,Team 1,Team 2,Winner,year,month,day,win_mode,margin,toss_winner,toss_decision,match_no
+2008-04-18,"Bengaluru, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2008,4,18,Runs,140.0,Royal Challengers Bangalore,field first,1
+2008-04-19,"Mohali, Chandigarh",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,2008,4,19,Runs,33.0,Chennai Super Kings,bat first,2
+2008-04-19,Delhi,Delhi Capitals,Rajasthan Royals,Delhi Capitals,2008,4,19,Wickets,9.0,Rajasthan Royals,bat first,3
+2008-04-20,Kolkata,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,2008,4,20,Wickets,5.0,Deccan Chargers,bat first,4
+2008-04-20,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,2008,4,20,Wickets,5.0,Mumbai Indians,bat first,5
+2008-04-21,Jaipur,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,2008,4,21,Wickets,6.0,Kings XI Punjab,bat first,6
+2008-04-22,Hyderabad,Deccan Chargers,Delhi Capitals,Delhi Capitals,2008,4,22,Wickets,9.0,Deccan Chargers,bat first,7
+2008-04-23,Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2008,4,23,Runs,6.0,Mumbai Indians,field first,8
+2008-04-24,Hyderabad,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,2008,4,24,Wickets,3.0,Rajasthan Royals,field first,9
+2008-04-25,"Mohali, Chandigarh",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2008,4,25,Runs,66.0,Mumbai Indians,field first,10
+2008-04-26,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2008,4,26,Wickets,9.0,Kolkata Knight Riders,bat first,11
+2008-04-26,"Bengaluru, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,2008,4,26,Wickets,7.0,Rajasthan Royals,field first,12
+2008-04-27,"Mohali, Chandigarh",Kings XI Punjab,Delhi Capitals,Kings XI Punjab,2008,4,27,Wickets,4.0,Delhi Capitals,bat first,13
+2008-04-27,Mumbai,Mumbai Indians,Deccan Chargers,Deccan Chargers,2008,4,27,Wickets,10.0,Deccan Chargers,field first,14
+2008-04-28,"Bengaluru, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,2008,4,28,Runs,13.0,Chennai Super Kings,bat first,15
+2008-04-29,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2008,4,29,Wickets,7.0,Kolkata Knight Riders,bat first,16
+2008-04-30,Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,2008,4,30,Runs,10.0,Royal Challengers Bangalore,field first,17
+2008-05-01,Hyderabad,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,2008,5,1,Wickets,7.0,Kings XI Punjab,field first,18
+2008-05-01,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2008,5,1,Runs,45.0,Rajasthan Royals,bat first,19
+2008-05-02,Chennai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,2008,5,2,Wickets,8.0,Chennai Super Kings,bat first,20
+2008-05-03,"Bengaluru, Bangalore",Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,2008,5,3,Runs,3.0,Deccan Chargers,field first,21
+2008-05-03,"Mohali, Chandigarh",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,2008,5,3,Runs,9.0,Kings XI Punjab,bat first,22
+2008-05-04,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,2008,5,4,Runs,29.0,Delhi Capitals,field first,23
+2008-05-04,Jaipur,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2008,5,4,Wickets,8.0,Chennai Super Kings,bat first,24
+2008-05-05,"Bengaluru, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,2008,5,5,Wickets,6.0,Kings XI Punjab,field first,25
+2008-05-06,Chennai,Chennai Super Kings,Deccan Chargers,Deccan Chargers,2008,5,6,Wickets,7.0,Deccan Chargers,field first,26
+2008-05-07,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,2008,5,7,Wickets,7.0,Mumbai Indians,field first,27
+2008-05-08,Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,2008,5,8,Wickets,4.0,Chennai Super Kings,field first,28
+2008-05-08,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2008,5,8,Runs,5.0,Kolkata Knight Riders,bat first,29
+2008-05-09,Jaipur,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,2008,5,9,Wickets,8.0,Rajasthan Royals,field first,30
+2008-05-10,Chennai,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2008,5,10,Runs,18.0,Kings XI Punjab,field first,31
+2008-05-11,Hyderabad,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,2008,5,11,Runs,23.0,Kolkata Knight Riders,bat first,32
+2008-05-11,Jaipur,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,2008,5,11,Wickets,3.0,Rajasthan Royals,field first,33
+2008-05-12,"Mohali, Chandigarh",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,2008,5,12,Wickets,9.0,Royal Challengers Bangalore,bat first,34
+2008-05-13,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,2008,5,13,Runs,23.0,Kolkata Knight Riders,bat first,35
+2008-05-14,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2008,5,14,Wickets,9.0,Mumbai Indians,field first,36
+2008-05-15,Delhi,Delhi Capitals,Deccan Chargers,Delhi Capitals,2008,5,15,Runs,12.0,Deccan Chargers,field first,37
+2008-05-16,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2008,5,16,Wickets,8.0,Mumbai Indians,field first,38
+2008-05-17,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,2008,5,17,Runs,65.0,Royal Challengers Bangalore,field first,39
+2008-05-17,Delhi,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,2008,5,17,Runs,6.0,Delhi Capitals,bat first,40
+2008-05-18,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,2008,5,18,Runs,3.0,Kolkata Knight Riders,bat first,41
+2008-05-18,Hyderabad,Deccan Chargers,Mumbai Indians,Mumbai Indians,2008,5,18,Runs,25.0,Deccan Chargers,field first,42
+2008-05-19,"Bengaluru, Bangalore",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,2008,5,19,Wickets,5.0,Delhi Capitals,field first,43
+2008-05-20,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,2008,5,20,Wickets,6.0,Rajasthan Royals,field first,44
+2008-05-21,Mumbai,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2008,5,21,Runs,1.0,Mumbai Indians,field first,45
+2008-05-21,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,2008,5,21,Runs,14.0,Royal Challengers Bangalore,bat first,46
+2008-05-22,Delhi,Delhi Capitals,Kolkata Knight Riders,Match,2008,5,22,,0.0,no toss,no toss,47
+2008-05-23,"Mohali, Chandigarh",Kings XI Punjab,Deccan Chargers,Kings XI Punjab,2008,5,23,Wickets,6.0,Kings XI Punjab,field first,48
+2008-05-24,Chennai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,2008,5,24,Runs,10.0,Rajasthan Royals,bat first,49
+2008-05-24,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,2008,5,24,Wickets,5.0,Delhi Capitals,field first,50
+2008-05-25,Hyderabad,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,2008,5,25,Wickets,5.0,Deccan Chargers,bat first,51
+2008-05-25,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2008,5,25,Wickets,3.0,Kings XI Punjab,bat first,52
+2008-05-26,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2008,5,26,Wickets,5.0,Rajasthan Royals,field first,53
+2008-05-27,Hyderabad,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,2008,5,27,Wickets,7.0,Deccan Chargers,bat first,54
+2008-05-28,"Bengaluru, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2008,5,28,Wickets,9.0,Mumbai Indians,field first,55
+2008-05-28,"Mohali, Chandigarh",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,2008,5,28,Runs,41.0,Rajasthan Royals,field first,56
+2008-05-30,Mumbai,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,2008,5,30,Runs,105.0,Delhi Capitals,field first,57
+2008-05-31,Mumbai,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,2008,5,31,Wickets,9.0,Kings XI Punjab,bat first,58
+2008-06-01,Mumbai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,2008,6,1,Wickets,3.0,Rajasthan Royals,field first,59
+2009-04-18,Cape Town,Chennai Super Kings,Mumbai Indians,Mumbai Indians,2009,4,18,Runs,19.0,Chennai Super Kings,field first,60
+2009-04-18,Cape Town,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,2009,4,18,Runs,75.0,Royal Challengers Bangalore,bat first,61
+2009-04-19,Cape Town,Delhi Capitals,Kings XI Punjab,Delhi Capitals,2009,4,19,Wickets,10.0,Delhi Capitals,field first,62
+2009-04-19,Cape Town,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,2009,4,19,Wickets,8.0,Kolkata Knight Riders,bat first,63
+2009-04-20,Port Elizabeth,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,2009,4,20,Runs,92.0,Chennai Super Kings,bat first,64
+2009-04-21,Durban,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2009,4,21,Runs,11.0,Kolkata Knight Riders,field first,65
+2009-04-21,Durban,Mumbai Indians,Rajasthan Royals,abandoned,2009,4,21,,0.0,no toss,no toss,66
+2009-04-22,Cape Town,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,2009,4,22,Runs,24.0,Deccan Chargers,bat first,67
+2009-04-23,Durban,Chennai Super Kings,Delhi Capitals,Delhi Capitals,2009,4,23,Runs,9.0,Delhi Capitals,bat first,68
+2009-04-23,Cape Town,Kolkata Knight Riders,Rajasthan Royals,tied,2009,4,23,,0.0,Kolkata Knight Riders,field first,69
+2009-04-24,Durban,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,2009,4,24,Wickets,7.0,Royal Challengers Bangalore,bat first,70
+2009-04-25,Durban,Deccan Chargers,Mumbai Indians,Deccan Chargers,2009,4,25,Runs,12.0,Deccan Chargers,bat first,71
+2009-04-25,Cape Town,Chennai Super Kings,Kolkata Knight Riders,abandoned,2009,4,25,,0.0,no toss,no toss,72
+2009-04-26,Cape Town,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,2009,4,26,Runs,27.0,Kings XI Punjab,bat first,73
+2009-04-26,Port Elizabeth,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,2009,4,26,Wickets,6.0,Royal Challengers Bangalore,bat first,74
+2009-04-27,Durban,Chennai Super Kings,Deccan Chargers,Deccan Chargers,2009,4,27,Wickets,6.0,Deccan Chargers,field first,75
+2009-04-27,Port Elizabeth,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2009,4,27,Runs,92.0,Mumbai Indians,bat first,76
+2009-04-28,Centurion,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,2009,4,28,Wickets,5.0,Delhi Capitals,bat first,77
+2009-04-29,Durban,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,2009,4,29,Wickets,5.0,Kolkata Knight Riders,bat first,78
+2009-04-29,Durban,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2009,4,29,Runs,3.0,Kings XI Punjab,bat first,79
+2009-04-30,Centurion,Deccan Chargers,Delhi Capitals,Delhi Capitals,2009,4,30,Wickets,6.0,Delhi Capitals,field first,80
+2009-04-30,Centurion,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2009,4,30,Runs,38.0,Rajasthan Royals,field first,81
+2009-05-01,East London,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2009,5,1,Runs,9.0,Mumbai Indians,bat first,82
+2009-05-01,Durban,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2009,5,1,Runs,8.0,Royal Challengers Bangalore,bat first,83
+2009-05-02,Port Elizabeth,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,2009,5,2,Wickets,3.0,Deccan Chargers,bat first,84
+2009-05-02,Johannesburg,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,2009,5,2,Runs,18.0,Delhi Capitals,field first,85
+2009-05-03,Johannesburg,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2009,5,3,Wickets,9.0,Mumbai Indians,bat first,86
+2009-05-03,Port Elizabeth,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,2009,5,3,Wickets,6.0,Kolkata Knight Riders,bat first,87
+2009-05-04,East London,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,2009,5,4,Runs,78.0,Chennai Super Kings,bat first,88
+2009-05-05,Durban,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,2009,5,5,Runs,78.0,Kings XI Punjab,field first,89
+2009-05-05,Durban,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,2009,5,5,Wickets,9.0,Kolkata Knight Riders,bat first,90
+2009-05-06,Centurion,Deccan Chargers,Mumbai Indians,Deccan Chargers,2009,5,6,Runs,19.0,Deccan Chargers,bat first,91
+2009-05-07,Centurion,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,2009,5,7,Wickets,7.0,Rajasthan Royals,field first,92
+2009-05-07,Centurion,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2009,5,7,Runs,12.0,Chennai Super Kings,bat first,93
+2009-05-08,East London,Delhi Capitals,Mumbai Indians,Delhi Capitals,2009,5,8,Wickets,7.0,Mumbai Indians,bat first,94
+2009-05-09,Kimberley,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,2009,5,9,Wickets,3.0,Kings XI Punjab,field first,95
+2009-05-09,Kimberley,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2009,5,9,Wickets,7.0,Rajasthan Royals,bat first,96
+2009-05-10,Port Elizabeth,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2009,5,10,Runs,16.0,Mumbai Indians,bat first,97
+2009-05-10,Johannesburg,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,2009,5,10,Wickets,7.0,Delhi Capitals,field first,98
+2009-05-11,Kimberley,Deccan Chargers,Rajasthan Royals,Deccan Chargers,2009,5,11,Runs,53.0,Deccan Chargers,bat first,99
+2009-05-12,Centurion,Kings XI Punjab,Mumbai Indians,Mumbai Indians,2009,5,12,Wickets,8.0,Kings XI Punjab,bat first,100
+2009-05-12,Centurion,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,2009,5,12,Wickets,6.0,Royal Challengers Bangalore,field first,101
+2009-05-13,Durban,Deccan Chargers,Delhi Capitals,Delhi Capitals,2009,5,13,Runs,12.0,Deccan Chargers,field first,102
+2009-05-14,Durban,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2009,5,14,Wickets,2.0,Chennai Super Kings,bat first,103
+2009-05-14,Durban,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,2009,5,14,Runs,2.0,Rajasthan Royals,bat first,104
+2009-05-15,Bloemfontein,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,2009,5,15,Wickets,6.0,Kings XI Punjab,field first,105
+2009-05-16,Port Elizabeth,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2009,5,16,Wickets,7.0,Mumbai Indians,bat first,106
+2009-05-16,Johannesburg,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,2009,5,16,Wickets,6.0,Deccan Chargers,field first,107
+2009-05-17,Johannesburg,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,2009,5,17,Runs,1.0,Deccan Chargers,field first,108
+2009-05-17,Bloemfontein,Delhi Capitals,Rajasthan Royals,Delhi Capitals,2009,5,17,Runs,14.0,Delhi Capitals,bat first,109
+2009-05-18,Centurion,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,2009,5,18,Wickets,7.0,Chennai Super Kings,bat first,110
+2009-05-19,Johannesburg,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,2009,5,19,Wickets,7.0,Delhi Capitals,bat first,111
+2009-05-20,Durban,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,2009,5,20,Wickets,4.0,Kolkata Knight Riders,field first,112
+2009-05-20,Durban,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2009,5,20,Runs,24.0,Chennai Super Kings,bat first,113
+2009-05-21,Centurion,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,2009,5,21,Runs,12.0,Royal Challengers Bangalore,bat first,114
+2009-05-21,Centurion,Delhi Capitals,Mumbai Indians,Delhi Capitals,2009,5,21,Wickets,4.0,Delhi Capitals,field first,115
+2009-05-22,Centurion,Delhi Capitals,Deccan Chargers,Deccan Chargers,2009,5,22,Wickets,6.0,Deccan Chargers,field first,116
+2009-05-23,Johannesburg,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2009,5,23,Wickets,6.0,Royal Challengers Bangalore,field first,117
+2009-05-24,Johannesburg,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,2009,5,24,Runs,6.0,Royal Challengers Bangalore,field first,118
+2010-03-12,Mumbai,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,2010,3,12,Runs,11.0,Deccan Chargers,field first,119
+2010-03-13,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,2010,3,13,Runs,4.0,Mumbai Indians,bat first,120
+2010-03-13,"Mohali, Chandigarh",Kings XI Punjab,Delhi Capitals,Delhi Capitals,2010,3,13,Wickets,5.0,Delhi Capitals,field first,121
+2010-03-14,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2010,3,14,Wickets,7.0,Kolkata Knight Riders,field first,122
+2010-03-14,Chennai,Chennai Super Kings,Deccan Chargers,Deccan Chargers,2010,3,14,Runs,31.0,Deccan Chargers,bat first,123
+2010-03-15,Cuttack,Rajasthan Royals,Delhi Capitals,Delhi Capitals,2010,3,15,Wickets,6.0,Delhi Capitals,field first,124
+2010-03-16,"Bengaluru, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2010,3,16,Wickets,8.0,Kings XI Punjab,bat first,125
+2010-03-16,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2010,3,16,Runs,55.0,Chennai Super Kings,bat first,126
+2010-03-17,Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,2010,3,17,Runs,98.0,Delhi Capitals,field first,127
+2010-03-18,"Bengaluru, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,2010,3,18,Wickets,10.0,Royal Challengers Bangalore,field first,128
+2010-03-19,Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,2010,3,19,Wickets,5.0,Delhi Capitals,bat first,129
+2010-03-19,Cuttack,Deccan Chargers,Kings XI Punjab,Deccan Chargers,2010,3,19,Runs,6.0,Kings XI Punjab,field first,130
+2010-03-20,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2010,3,20,Runs,34.0,Rajasthan Royals,bat first,131
+2010-03-20,Cuttack,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,2010,3,20,Wickets,7.0,Mumbai Indians,bat first,132
+2010-03-21,Chennai,Chennai Super Kings,Kings XI Punjab,Match,2010,3,21,Super over,0.0,Chennai Super Kings,field first,133
+2010-03-21,Cuttack,Deccan Chargers,Delhi Capitals,Deccan Chargers,2010,3,21,Runs,10.0,Deccan Chargers,bat first,134
+2010-03-22,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2010,3,22,Wickets,7.0,Kolkata Knight Riders,bat first,135
+2010-03-23,"Bengaluru, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2010,3,23,Runs,36.0,Chennai Super Kings,field first,136
+2010-03-24,"Mohali, Chandigarh",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,2010,3,24,Runs,31.0,Kings XI Punjab,field first,137
+2010-03-25,"Bengaluru, Bangalore",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,2010,3,25,Runs,17.0,Royal Challengers Bangalore,field first,138
+2010-03-25,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2010,3,25,Wickets,5.0,Mumbai Indians,field first,139
+2010-03-26,Ahmedabad,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,2010,3,26,Wickets,8.0,Deccan Chargers,bat first,140
+2010-03-27,"Mohali, Chandigarh",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2010,3,27,Runs,39.0,Kolkata Knight Riders,bat first,141
+2010-03-28,Ahmedabad,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2010,3,28,Runs,17.0,Rajasthan Royals,bat first,142
+2010-03-28,Mumbai,Deccan Chargers,Mumbai Indians,Mumbai Indians,2010,3,28,Runs,41.0,Deccan Chargers,field first,143
+2010-03-29,Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,2010,3,29,Runs,40.0,Delhi Capitals,bat first,144
+2010-03-30,Mumbai,Mumbai Indians,Kings XI Punjab,Mumbai Indians,2010,3,30,Wickets,4.0,Mumbai Indians,field first,145
+2010-03-31,Delhi,Delhi Capitals,Rajasthan Royals,Delhi Capitals,2010,3,31,Runs,67.0,Delhi Capitals,bat first,146
+2010-03-31,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2010,3,31,Wickets,5.0,Royal Challengers Bangalore,bat first,147
+2010-04-01,Kolkata,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,2010,4,1,Runs,24.0,Kolkata Knight Riders,bat first,148
+2010-04-02,Cuttack,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,2010,4,2,Wickets,6.0,Kings XI Punjab,bat first,149
+2010-04-03,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2010,4,3,Runs,23.0,Chennai Super Kings,bat first,150
+2010-04-03,Mumbai,Mumbai Indians,Deccan Chargers,Mumbai Indians,2010,4,3,Runs,63.0,Mumbai Indians,bat first,151
+2010-04-04,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,2010,4,4,Wickets,8.0,Kolkata Knight Riders,bat first,152
+2010-04-04,Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,2010,4,4,Runs,37.0,Delhi Capitals,bat first,153
+2010-04-05,Nagpur,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,2010,4,5,Runs,2.0,Rajasthan Royals,bat first,154
+2010-04-06,Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2010,4,6,Runs,24.0,Chennai Super Kings,bat first,155
+2010-04-07,Jaipur,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,2010,4,7,Wickets,9.0,Kings XI Punjab,bat first,156
+2010-04-07,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,2010,4,7,Runs,14.0,Kolkata Knight Riders,bat first,157
+2010-04-08,"Bengaluru, Bangalore",Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,2010,4,8,Wickets,7.0,Deccan Chargers,field first,158
+2010-04-09,"Mohali, Chandigarh",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2010,4,9,Wickets,6.0,Mumbai Indians,bat first,159
+2010-04-10,Nagpur,Deccan Chargers,Chennai Super Kings,Deccan Chargers,2010,4,10,Wickets,6.0,Chennai Super Kings,bat first,160
+2010-04-10,"Bengaluru, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,2010,4,10,Wickets,7.0,Royal Challengers Bangalore,field first,161
+2010-04-11,Delhi,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,2010,4,11,Wickets,7.0,Delhi Capitals,bat first,162
+2010-04-11,Jaipur,Rajasthan Royals,Mumbai Indians,Mumbai Indians,2010,4,11,Runs,37.0,Rajasthan Royals,field first,163
+2010-04-12,Nagpur,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,2010,4,12,Runs,13.0,Royal Challengers Bangalore,field first,164
+2010-04-13,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,2010,4,13,Runs,39.0,Mumbai Indians,bat first,165
+2010-04-13,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2010,4,13,Wickets,9.0,Kolkata Knight Riders,bat first,166
+2010-04-14,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,2010,4,14,Wickets,5.0,Rajasthan Royals,bat first,167
+2010-04-15,Chennai,Chennai Super Kings,Delhi Capitals,Delhi Capitals,2010,4,15,Wickets,6.0,Chennai Super Kings,bat first,168
+2010-04-16,Dharamsala,Kings XI Punjab,Deccan Chargers,Deccan Chargers,2010,4,16,Wickets,5.0,Deccan Chargers,field first,169
+2010-04-17,"Bengaluru, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2010,4,17,Runs,57.0,Royal Challengers Bangalore,field first,170
+2010-04-17,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,2010,4,17,Wickets,8.0,Rajasthan Royals,bat first,171
+2010-04-18,Dharamsala,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,2010,4,18,Wickets,6.0,Chennai Super Kings,field first,172
+2010-04-18,Delhi,Delhi Capitals,Deccan Chargers,Deccan Chargers,2010,4,18,Runs,11.0,Deccan Chargers,bat first,173
+2010-04-19,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,2010,4,19,Wickets,9.0,Mumbai Indians,bat first,174
+2010-04-21,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2010,4,21,Runs,35.0,Mumbai Indians,bat first,175
+2010-04-22,Mumbai,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,2010,4,22,Runs,38.0,Chennai Super Kings,bat first,176
+2010-04-24,Mumbai,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,2010,4,24,Wickets,9.0,Deccan Chargers,bat first,177
+2010-04-25,Mumbai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2010,4,25,Runs,22.0,Chennai Super Kings,bat first,178
+2011-04-08,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2011,4,8,Runs,2.0,Chennai Super Kings,bat first,179
+2011-04-09,Hyderabad (Deccan),Deccan Chargers,Rajasthan Royals,Rajasthan Royals,2011,4,9,Wickets,8.0,Rajasthan Royals,field first,180
+2011-04-09,Kochi,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,2011,4,9,Wickets,6.0,Kochi Tuskers Kerala,bat first,181
+2011-04-10,Mumbai,Pune Warriors,Kings XI Punjab,Pune Warriors,2011,4,10,Wickets,7.0,Kings XI Punjab,bat first,182
+2011-04-10,Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,2011,4,10,Wickets,8.0,Delhi Capitals,bat first,183
+2011-04-11,Kolkata,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,2011,4,11,Runs,9.0,Kolkata Knight Riders,bat first,184
+2011-04-12,Jaipur,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,2011,4,12,Wickets,6.0,Delhi Capitals,bat first,185
+2011-04-12,Bengaluru,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2011,4,12,Wickets,9.0,Mumbai Indians,field first,186
+2011-04-13,Mohali,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,2011,4,13,Wickets,6.0,Kings XI Punjab,field first,187
+2011-04-13,Mumbai,Pune Warriors,Kochi Tuskers Kerala,Pune Warriors,2011,4,13,Wickets,4.0,Kochi Tuskers Kerala,bat first,188
+2011-04-14,Hyderabad (Deccan),Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,2011,4,14,Runs,33.0,Royal Challengers Bangalore,field first,189
+2011-04-15,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,2011,4,15,Wickets,9.0,Kolkata Knight Riders,field first,190
+2011-04-15,Mumbai,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,2011,4,15,Wickets,8.0,Kochi Tuskers Kerala,field first,191
+2011-04-16,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2011,4,16,Runs,21.0,Chennai Super Kings,bat first,192
+2011-04-16,Hyderabad (Deccan),Deccan Chargers,Kings XI Punjab,Kings XI Punjab,2011,4,16,Wickets,8.0,Kings XI Punjab,field first,193
+2011-04-17,Mumbai,Pune Warriors,Delhi Capitals,Delhi Capitals,2011,4,17,Wickets,3.0,Delhi Capitals,field first,194
+2011-04-17,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,2011,4,17,Wickets,8.0,Kolkata Knight Riders,field first,195
+2011-04-18,Kochi,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,2011,4,18,Wickets,7.0,Kochi Tuskers Kerala,field first,196
+2011-04-19,Bengaluru,Royal Challengers Bangalore,Rajasthan Royals,abandoned,2011,4,19,,0.0,no toss,no toss,197
+2011-04-19,Delhi,Delhi Capitals,Deccan Chargers,Deccan Chargers,2011,4,19,Runs,16.0,Deccan Chargers,bat first,198
+2011-04-20,Mumbai,Mumbai Indians,Pune Warriors,Mumbai Indians,2011,4,20,Wickets,7.0,Pune Warriors,bat first,199
+2011-04-20,Kolkata,Kolkata Knight Riders,Kochi Tuskers Kerala,Kochi Tuskers Kerala,2011,4,20,Runs,6.0,Kolkata Knight Riders,field first,200
+2011-04-21,Mohali,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,2011,4,21,Runs,48.0,Rajasthan Royals,field first,201
+2011-04-22,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,2011,4,22,Wickets,9.0,Royal Challengers Bangalore,field first,202
+2011-04-22,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2011,4,22,Runs,8.0,Chennai Super Kings,field first,203
+2011-04-23,Delhi,Delhi Capitals,Kings XI Punjab,Delhi Capitals,2011,4,23,Runs,29.0,Kings XI Punjab,field first,204
+2011-04-24,Jaipur,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,2011,4,24,Wickets,8.0,Rajasthan Royals,field first,205
+2011-04-24,Hyderabad (Deccan),Deccan Chargers,Mumbai Indians,Mumbai Indians,2011,4,24,Runs,37.0,Deccan Chargers,field first,206
+2011-04-25,Chennai,Chennai Super Kings,Pune Warriors,Chennai Super Kings,2011,4,25,Runs,25.0,Pune Warriors,field first,207
+2011-04-26,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,2011,4,26,Wickets,3.0,Royal Challengers Bangalore,field first,208
+2011-04-27,Kochi,Kochi Tuskers Kerala,Deccan Chargers,Deccan Chargers,2011,4,27,Runs,55.0,Kochi Tuskers Kerala,field first,209
+2011-04-27,Mumbai,Pune Warriors,Chennai Super Kings,Chennai Super Kings,2011,4,27,Wickets,8.0,Pune Warriors,bat first,210
+2011-04-28,Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,2011,4,28,Runs,17.0,Delhi Capitals,field first,211
+2011-04-29,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2011,4,29,Wickets,7.0,Rajasthan Royals,field first,212
+2011-04-29,Bengaluru,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,2011,4,29,Runs,26.0,Pune Warriors,field first,213
+2011-04-30,Kochi,Kochi Tuskers Kerala,Delhi Capitals,Delhi Capitals,2011,4,30,Runs,38.0,Delhi Capitals,bat first,214
+2011-04-30,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2011,4,30,Wickets,8.0,Kolkata Knight Riders,field first,215
+2011-05-01,Jaipur,Rajasthan Royals,Pune Warriors,Rajasthan Royals,2011,5,1,Wickets,6.0,Rajasthan Royals,field first,216
+2011-05-01,Chennai,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,2011,5,1,Runs,19.0,Chennai Super Kings,bat first,217
+2011-05-02,Mumbai,Mumbai Indians,Kings XI Punjab,Mumbai Indians,2011,5,2,Runs,23.0,Kings XI Punjab,field first,218
+2011-05-02,Delhi,Delhi Capitals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,2011,5,2,Wickets,7.0,Kochi Tuskers Kerala,field first,219
+2011-05-03,Hyderabad (Deccan),Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,2011,5,3,Runs,20.0,Deccan Chargers,field first,220
+2011-05-04,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2011,5,4,Wickets,8.0,Rajasthan Royals,bat first,221
+2011-05-04,Mumbai,Pune Warriors,Mumbai Indians,Mumbai Indians,2011,5,4,Runs,21.0,Pune Warriors,field first,222
+2011-05-05,Hyderabad (Deccan),Deccan Chargers,Delhi Capitals,Delhi Capitals,2011,5,5,Wickets,4.0,Delhi Capitals,field first,223
+2011-05-05,Kochi,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,2011,5,5,Runs,17.0,Kolkata Knight Riders,field first,224
+2011-05-06,Bengaluru,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2011,5,6,Runs,85.0,Kings XI Punjab,field first,225
+2011-05-07,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,2011,5,7,Runs,32.0,Delhi Capitals,field first,226
+2011-05-07,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,2011,5,7,Runs,10.0,Chennai Super Kings,bat first,227
+2011-05-08,Bengaluru,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,2011,5,8,Wickets,9.0,Kochi Tuskers Kerala,bat first,228
+2011-05-08,Mohali,Kings XI Punjab,Pune Warriors,Pune Warriors,2011,5,8,Wickets,5.0,Kings XI Punjab,bat first,229
+2011-05-09,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,2011,5,9,Runs,63.0,Rajasthan Royals,field first,230
+2011-05-10,Hyderabad (Deccan),Deccan Chargers,Pune Warriors,Pune Warriors,2011,5,10,Wickets,6.0,Deccan Chargers,bat first,231
+2011-05-10,Mohali,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2011,5,10,Runs,76.0,Mumbai Indians,field first,232
+2011-05-11,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,2011,5,11,Wickets,9.0,Royal Challengers Bangalore,field first,233
+2011-05-12,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,2011,5,12,Runs,18.0,Chennai Super Kings,bat first,234
+2011-05-13,Indore,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,2011,5,13,Wickets,6.0,Kings XI Punjab,field first,235
+2011-05-14,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,2011,5,14,Wickets,4.0,Royal Challengers Bangalore,field first,236
+2011-05-14,Mumbai,Mumbai Indians,Deccan Chargers,Deccan Chargers,2011,5,14,Runs,10.0,Deccan Chargers,bat first,237
+2011-05-15,Dharamsala,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,2011,5,15,Runs,29.0,Delhi Capitals,field first,238
+2011-05-15,Indore,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,2011,5,15,Wickets,8.0,Kochi Tuskers Kerala,field first,239
+2011-05-16,Mumbai,Pune Warriors,Deccan Chargers,Deccan Chargers,2011,5,16,Wickets,6.0,Deccan Chargers,field first,240
+2011-05-17,Dharamsala,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,2011,5,17,Runs,111.0,Kings XI Punjab,bat first,241
+2011-05-18,Chennai,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,2011,5,18,Runs,11.0,Chennai Super Kings,bat first,242
+2011-05-19,Mumbai,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,2011,5,19,Wickets,7.0,Kolkata Knight Riders,field first,243
+2011-05-20,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,2011,5,20,Wickets,10.0,Mumbai Indians,bat first,244
+2011-05-21,Dharamsala,Kings XI Punjab,Deccan Chargers,Deccan Chargers,2011,5,21,Runs,82.0,Kings XI Punjab,field first,245
+2011-05-21,Delhi,Delhi Capitals,Pune Warriors,no result,2011,5,21,,0.0,Delhi Capitals,bat first,246
+2011-05-22,Bengaluru,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2011,5,22,Wickets,8.0,Royal Challengers Bangalore,field first,247
+2011-05-22,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2011,5,22,Wickets,5.0,Mumbai Indians,field first,248
+2011-05-24,Mumbai,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,2011,5,24,Wickets,6.0,Chennai Super Kings,field first,249
+2011-05-25,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2011,5,25,Wickets,4.0,Mumbai Indians,field first,250
+2011-05-27,Chennai,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2011,5,27,Runs,43.0,Mumbai Indians,field first,251
+2011-05-28,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2011,5,28,Runs,58.0,Chennai Super Kings,bat first,252
+2012-04-04,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,2012,4,4,Wickets,8.0,Mumbai Indians,field first,253
+2012-04-05,Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,2012,4,5,Wickets,8.0,Delhi Capitals,field first,254
+2012-04-06,Jaipur,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,2012,4,6,Runs,31.0,Kings XI Punjab,field first,255
+2012-04-06,Mumbai,Mumbai Indians,Pune Warriors,Pune Warriors,2012,4,6,Runs,28.0,Mumbai Indians,field first,256
+2012-04-07,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,2012,4,7,Runs,20.0,Delhi Capitals,field first,257
+2012-04-07,Visakhapatnam,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,2012,4,7,Runs,74.0,Deccan Chargers,field first,258
+2012-04-08,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2012,4,8,Runs,22.0,Kolkata Knight Riders,field first,259
+2012-04-08,Pune,Pune Warriors,Kings XI Punjab,Pune Warriors,2012,4,8,Runs,22.0,Pune Warriors,bat first,260
+2012-04-09,Visakhapatnam,Deccan Chargers,Mumbai Indians,Mumbai Indians,2012,4,9,Wickets,5.0,Deccan Chargers,bat first,261
+2012-04-10,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2012,4,10,Runs,42.0,Royal Challengers Bangalore,field first,262
+2012-04-10,Delhi,Delhi Capitals,Chennai Super Kings,Delhi Capitals,2012,4,10,Wickets,8.0,Delhi Capitals,field first,263
+2012-04-11,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,2012,4,11,Runs,27.0,Rajasthan Royals,field first,264
+2012-04-12,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2012,4,12,Wickets,5.0,Royal Challengers Bangalore,bat first,265
+2012-04-12,Mohali,Kings XI Punjab,Pune Warriors,Kings XI Punjab,2012,4,12,Wickets,7.0,Kings XI Punjab,field first,266
+2012-04-13,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,2012,4,13,Wickets,5.0,Rajasthan Royals,bat first,267
+2012-04-14,Pune,Pune Warriors,Chennai Super Kings,Pune Warriors,2012,4,14,Wickets,7.0,Chennai Super Kings,bat first,268
+2012-04-15,Bengaluru,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,2012,4,15,Runs,59.0,Rajasthan Royals,bat first,269
+2012-04-15,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,2012,4,15,Runs,2.0,Kolkata Knight Riders,field first,270
+2012-04-16,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,2012,4,16,Wickets,7.0,Delhi Capitals,field first,271
+2012-04-17,Bengaluru,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,2012,4,17,Wickets,6.0,Pune Warriors,bat first,272
+2012-04-17,Jaipur,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,2012,4,17,Wickets,5.0,Deccan Chargers,bat first,273
+2012-04-18,Mohali,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2012,4,18,Wickets,8.0,Kings XI Punjab,bat first,274
+2012-04-19,Delhi,Delhi Capitals,Deccan Chargers,Delhi Capitals,2012,4,19,Wickets,5.0,Deccan Chargers,bat first,275
+2012-04-19,Chennai,Chennai Super Kings,Pune Warriors,Chennai Super Kings,2012,4,19,Runs,13.0,Pune Warriors,field first,276
+2012-04-20,Mohali,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,2012,4,20,Wickets,5.0,Royal Challengers Bangalore,field first,277
+2012-04-21,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2012,4,21,Wickets,7.0,Rajasthan Royals,bat first,278
+2012-04-21,Delhi,Delhi Capitals,Pune Warriors,Pune Warriors,2012,4,21,Runs,20.0,Delhi Capitals,field first,279
+2012-04-22,Cuttack,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,2012,4,22,Wickets,5.0,Kolkata Knight Riders,field first,280
+2012-04-22,Mumbai,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,2012,4,22,Wickets,6.0,Mumbai Indians,bat first,281
+2012-04-23,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,2012,4,23,Runs,46.0,Rajasthan Royals,field first,282
+2012-04-24,Pune,Pune Warriors,Delhi Capitals,Delhi Capitals,2012,4,24,Wickets,8.0,Pune Warriors,bat first,283
+2012-04-24,Kolkata,Kolkata Knight Riders,Deccan Chargers,abandoned,2012,4,24,,0.0,no toss,no toss,284
+2012-04-25,Mohali,Kings XI Punjab,Mumbai Indians,Mumbai Indians,2012,4,25,Wickets,4.0,Kings XI Punjab,bat first,285
+2012-04-25,Bengaluru,Royal Challengers Bangalore,Chennai Super Kings,no result,2012,4,25,,0.0,Royal Challengers Bangalore,field first,286
+2012-04-26,Pune,Pune Warriors,Deccan Chargers,Deccan Chargers,2012,4,26,Runs,18.0,Deccan Chargers,bat first,287
+2012-04-27,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,2012,4,27,Runs,37.0,Mumbai Indians,field first,288
+2012-04-28,Chennai,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,2012,4,28,Runs,7.0,Kings XI Punjab,bat first,289
+2012-04-28,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2012,4,28,Runs,47.0,Kolkata Knight Riders,bat first,290
+2012-04-29,Delhi,Delhi Capitals,Rajasthan Royals,Delhi Capitals,2012,4,29,Runs,1.0,Delhi Capitals,bat first,291
+2012-04-29,Mumbai,Mumbai Indians,Deccan Chargers,Mumbai Indians,2012,4,29,Wickets,5.0,Mumbai Indians,field first,292
+2012-04-30,Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,2012,4,30,Wickets,5.0,Chennai Super Kings,bat first,293
+2012-05-01,Cuttack,Deccan Chargers,Pune Warriors,Deccan Chargers,2012,5,1,Runs,13.0,Deccan Chargers,bat first,294
+2012-05-01,Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,2012,5,1,Wickets,6.0,Rajasthan Royals,bat first,295
+2012-05-02,Bengaluru,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,2012,5,2,Wickets,4.0,Kings XI Punjab,field first,296
+2012-05-03,Pune,Pune Warriors,Mumbai Indians,Mumbai Indians,2012,5,3,Runs,1.0,Mumbai Indians,bat first,297
+2012-05-04,Chennai,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,2012,5,4,Runs,10.0,Chennai Super Kings,bat first,298
+2012-05-05,Kolkata,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,2012,5,5,Runs,7.0,Kolkata Knight Riders,bat first,299
+2012-05-05,Mohali,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,2012,5,5,Runs,43.0,Rajasthan Royals,bat first,300
+2012-05-06,Bengaluru,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,2012,5,6,Wickets,5.0,Royal Challengers Bangalore,field first,301
+2012-05-06,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2012,5,6,Wickets,2.0,Mumbai Indians,field first,302
+2012-05-07,Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,2012,5,7,Wickets,6.0,Delhi Capitals,bat first,303
+2012-05-08,Pune,Pune Warriors,Rajasthan Royals,Rajasthan Royals,2012,5,8,Wickets,7.0,Pune Warriors,bat first,304
+2012-05-08,Hyderabad (Deccan),Deccan Chargers,Kings XI Punjab,Kings XI Punjab,2012,5,8,Runs,25.0,Deccan Chargers,field first,305
+2012-05-09,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,2012,5,9,Wickets,9.0,Royal Challengers Bangalore,field first,306
+2012-05-10,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,2012,5,10,Wickets,4.0,Chennai Super Kings,field first,307
+2012-05-10,Hyderabad (Deccan),Deccan Chargers,Delhi Capitals,Delhi Capitals,2012,5,10,Wickets,9.0,Deccan Chargers,bat first,308
+2012-05-11,Pune,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,2012,5,11,Runs,35.0,Pune Warriors,field first,309
+2012-05-12,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2012,5,12,Runs,27.0,Mumbai Indians,bat first,310
+2012-05-12,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,2012,5,12,Wickets,9.0,Chennai Super Kings,field first,311
+2012-05-13,Jaipur,Rajasthan Royals,Pune Warriors,Rajasthan Royals,2012,5,13,Runs,45.0,Rajasthan Royals,bat first,312
+2012-05-13,Mohali,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,2012,5,13,Wickets,4.0,Deccan Chargers,bat first,313
+2012-05-14,Bengaluru,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2012,5,14,Wickets,5.0,Mumbai Indians,field first,314
+2012-05-14,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,2012,5,14,Wickets,5.0,Chennai Super Kings,field first,315
+2012-05-15,Delhi,Delhi Capitals,Kings XI Punjab,Delhi Capitals,2012,5,15,Wickets,5.0,Kings XI Punjab,bat first,316
+2012-05-16,Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,2012,5,16,Runs,32.0,Mumbai Indians,field first,317
+2012-05-17,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,2012,5,17,Runs,21.0,Delhi Capitals,field first,318
+2012-05-17,Dharamsala,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,2012,5,17,Wickets,6.0,Kings XI Punjab,field first,319
+2012-05-18,Hyderabad (Deccan),Deccan Chargers,Rajasthan Royals,Deccan Chargers,2012,5,18,Wickets,5.0,Rajasthan Royals,bat first,320
+2012-05-19,Pune,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,2012,5,19,Runs,34.0,Kolkata Knight Riders,bat first,321
+2012-05-19,Dharamsala,Kings XI Punjab,Delhi Capitals,Delhi Capitals,2012,5,19,Wickets,6.0,Delhi Capitals,field first,322
+2012-05-20,Hyderabad (Deccan),Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,2012,5,20,Runs,9.0,Royal Challengers Bangalore,field first,323
+2012-05-20,Jaipur,Rajasthan Royals,Mumbai Indians,Mumbai Indians,2012,5,20,Wickets,10.0,Rajasthan Royals,bat first,324
+2012-05-22,Pune,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,2012,5,22,Runs,18.0,Kolkata Knight Riders,bat first,325
+2012-05-23,Bengaluru,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2012,5,23,Runs,38.0,Mumbai Indians,field first,326
+2012-05-25,Chennai,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,2012,5,25,Runs,86.0,Delhi Capitals,field first,327
+2012-05-27,Chennai,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,2012,5,27,Wickets,5.0,Chennai Super Kings,bat first,328
+2013-04-03,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,2013,4,3,Wickets,6.0,Kolkata Knight Riders,field first,329
+2013-04-04,Bengaluru,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2013,4,4,Runs,2.0,Mumbai Indians,field first,330
+2013-04-05,Hyderabad (Deccan),Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,2013,4,5,Runs,22.0,Pune Warriors,field first,331
+2013-04-06,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,2013,4,6,Runs,9.0,Mumbai Indians,bat first,332
+2013-04-06,Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,2013,4,6,Runs,5.0,Rajasthan Royals,bat first,333
+2013-04-07,Pune,Pune Warriors,Kings XI Punjab,Kings XI Punjab,2013,4,7,Wickets,8.0,Pune Warriors,bat first,334
+2013-04-07,Hyderabad (Deccan),Sunrisers Hyderabad,Royal Challengers Bangalore,tied,2013,4,7,,0.0,Royal Challengers Bangalore,bat first,335
+2013-04-08,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2013,4,8,Runs,19.0,Kolkata Knight Riders,field first,336
+2013-04-09,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,2013,4,9,Runs,44.0,Mumbai Indians,bat first,337
+2013-04-09,Bengaluru,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,2013,4,9,Wickets,7.0,Sunrisers Hyderabad,bat first,338
+2013-04-10,Mohali,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,2013,4,10,Wickets,10.0,Chennai Super Kings,field first,339
+2013-04-11,Pune,Pune Warriors,Rajasthan Royals,Pune Warriors,2013,4,11,Wickets,7.0,Rajasthan Royals,bat first,340
+2013-04-11,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,2013,4,11,Wickets,8.0,Royal Challengers Bangalore,field first,341
+2013-04-12,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,2013,4,12,Wickets,3.0,Delhi Capitals,bat first,342
+2013-04-13,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2013,4,13,Wickets,4.0,Chennai Super Kings,field first,343
+2013-04-13,Mumbai,Mumbai Indians,Pune Warriors,Mumbai Indians,2013,4,13,Runs,41.0,Mumbai Indians,bat first,344
+2013-04-14,Jaipur,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,2013,4,14,Wickets,6.0,Rajasthan Royals,field first,345
+2013-04-14,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,2013,4,14,Runs,48.0,Kolkata Knight Riders,bat first,346
+2013-04-15,Chennai,Chennai Super Kings,Pune Warriors,Pune Warriors,2013,4,15,Runs,24.0,Pune Warriors,bat first,347
+2013-04-16,Mohali,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,2013,4,16,Runs,4.0,Kolkata Knight Riders,field first,348
+2013-04-16,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,tied,2013,4,16,,0.0,Royal Challengers Bangalore,field first,349
+2013-04-17,Pune,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,2013,4,17,Runs,11.0,Pune Warriors,field first,350
+2013-04-17,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2013,4,17,Runs,87.0,Rajasthan Royals,bat first,351
+2013-04-18,Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,2013,4,18,Runs,86.0,Chennai Super Kings,bat first,352
+2013-04-19,Hyderabad (Deccan),Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,2013,4,19,Wickets,5.0,Kings XI Punjab,bat first,353
+2013-04-20,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,2013,4,20,Wickets,4.0,Kolkata Knight Riders,bat first,354
+2013-04-20,Bengaluru,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,2013,4,20,Wickets,7.0,Royal Challengers Bangalore,field first,355
+2013-04-21,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,2013,4,21,Wickets,9.0,Mumbai Indians,bat first,356
+2013-04-21,Mohali,Kings XI Punjab,Pune Warriors,Kings XI Punjab,2013,4,21,Wickets,7.0,Kings XI Punjab,field first,357
+2013-04-22,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2013,4,22,Wickets,5.0,Rajasthan Royals,bat first,358
+2013-04-23,Bengaluru,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,2013,4,23,Runs,130.0,Pune Warriors,field first,359
+2013-04-23,Delhi,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,2013,4,23,Wickets,5.0,Kings XI Punjab,field first,360
+2013-04-24,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2013,4,24,Wickets,5.0,Kolkata Knight Riders,bat first,361
+2013-04-25,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,2013,4,25,Wickets,5.0,Sunrisers Hyderabad,bat first,362
+2013-04-26,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2013,4,26,Wickets,6.0,Kings XI Punjab,bat first,363
+2013-04-27,Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,2013,4,27,Wickets,8.0,Sunrisers Hyderabad,bat first,364
+2013-04-27,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2013,4,27,Runs,58.0,Mumbai Indians,bat first,365
+2013-04-28,Raipur,Delhi Capitals,Pune Warriors,Delhi Capitals,2013,4,28,Runs,15.0,Pune Warriors,field first,366
+2013-04-28,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2013,4,28,Runs,14.0,Kolkata Knight Riders,field first,367
+2013-04-29,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,2013,4,29,Wickets,4.0,Rajasthan Royals,field first,368
+2013-04-29,Mumbai,Mumbai Indians,Kings XI Punjab,Mumbai Indians,2013,4,29,Runs,4.0,Mumbai Indians,bat first,369
+2013-04-30,Pune,Pune Warriors,Chennai Super Kings,Chennai Super Kings,2013,4,30,Runs,37.0,Chennai Super Kings,bat first,370
+2013-05-01,Hyderabad (Deccan),Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,2013,5,1,Wickets,7.0,Mumbai Indians,bat first,371
+2013-05-01,Raipur,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,2013,5,1,Wickets,7.0,Kolkata Knight Riders,bat first,372
+2013-05-02,Chennai,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2013,5,2,Runs,15.0,Chennai Super Kings,bat first,373
+2013-05-02,Pune,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,2013,5,2,Runs,17.0,Royal Challengers Bangalore,bat first,374
+2013-05-03,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,2013,5,3,Wickets,8.0,Rajasthan Royals,bat first,375
+2013-05-04,Hyderabad (Deccan),Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,2013,5,4,Wickets,6.0,Delhi Capitals,bat first,376
+2013-05-05,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2013,5,5,Runs,60.0,Mumbai Indians,bat first,377
+2013-05-05,Jaipur,Rajasthan Royals,Pune Warriors,Rajasthan Royals,2013,5,5,Wickets,5.0,Pune Warriors,bat first,378
+2013-05-06,Mohali,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,2013,5,6,Wickets,6.0,Kings XI Punjab,field first,379
+2013-05-07,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2013,5,7,Runs,65.0,Mumbai Indians,bat first,380
+2013-05-07,Jaipur,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,2013,5,7,Wickets,9.0,Delhi Capitals,bat first,381
+2013-05-08,Hyderabad (Deccan),Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,2013,5,8,Runs,77.0,Sunrisers Hyderabad,field first,382
+2013-05-09,Mohali,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,2013,5,9,Wickets,8.0,Rajasthan Royals,field first,383
+2013-05-09,Pune,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,2013,5,9,Runs,46.0,Kolkata Knight Riders,bat first,384
+2013-05-10,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,2013,5,10,Runs,4.0,Delhi Capitals,field first,385
+2013-05-11,Pune,Pune Warriors,Mumbai Indians,Mumbai Indians,2013,5,11,Wickets,5.0,Pune Warriors,bat first,386
+2013-05-11,Mohali,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,2013,5,11,Runs,30.0,Kings XI Punjab,field first,387
+2013-05-12,Ranchi,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2013,5,12,Wickets,5.0,Kolkata Knight Riders,field first,388
+2013-05-12,Jaipur,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2013,5,12,Wickets,5.0,Rajasthan Royals,field first,389
+2013-05-13,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,2013,5,13,Wickets,7.0,Sunrisers Hyderabad,bat first,390
+2013-05-14,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,2013,5,14,Runs,33.0,Chennai Super Kings,bat first,391
+2013-05-14,Bengaluru,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,2013,5,14,Wickets,7.0,Kings XI Punjab,field first,392
+2013-05-15,Ranchi,Kolkata Knight Riders,Pune Warriors,Pune Warriors,2013,5,15,Runs,7.0,Kolkata Knight Riders,field first,393
+2013-05-15,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,2013,5,15,Runs,14.0,Rajasthan Royals,field first,394
+2013-05-16,Dharamsala,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,2013,5,16,Runs,7.0,Delhi Capitals,field first,395
+2013-05-17,Hyderabad (Deccan),Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,2013,5,17,Runs,23.0,Sunrisers Hyderabad,bat first,396
+2013-05-18,Dharamsala,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2013,5,18,Runs,50.0,Mumbai Indians,field first,397
+2013-05-18,Bengaluru,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2013,5,18,Runs,24.0,Chennai Super Kings,field first,398
+2013-05-19,Pune,Pune Warriors,Delhi Capitals,Pune Warriors,2013,5,19,Runs,38.0,Pune Warriors,bat first,399
+2013-05-19,Hyderabad (Deccan),Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,2013,5,19,Wickets,5.0,Kolkata Knight Riders,bat first,400
+2013-05-21,Delhi,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2013,5,21,Runs,48.0,Chennai Super Kings,bat first,401
+2013-05-22,Delhi,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,2013,5,22,Wickets,4.0,Sunrisers Hyderabad,bat first,402
+2013-05-24,Kolkata,Mumbai Indians,Rajasthan Royals,Mumbai Indians,2013,5,24,Wickets,4.0,Rajasthan Royals,bat first,403
+2013-05-26,Kolkata,Chennai Super Kings,Mumbai Indians,Mumbai Indians,2013,5,26,Runs,23.0,Mumbai Indians,bat first,404
+2014-04-16,Abu Dhabi,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,2014,4,16,Runs,41.0,Kolkata Knight Riders,bat first,405
+2014-04-17,Sharjah,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,2014,4,17,Wickets,8.0,Royal Challengers Bangalore,field first,406
+2014-04-18,Abu Dhabi,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,2014,4,18,Wickets,4.0,Rajasthan Royals,field first,407
+2014-04-18,Abu Dhabi,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,2014,4,18,Wickets,6.0,Chennai Super Kings,bat first,408
+2014-04-19,Dubai (DSC),Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2014,4,19,Wickets,7.0,Royal Challengers Bangalore,field first,409
+2014-04-19,Dubai (DSC),Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,2014,4,19,Wickets,4.0,Kolkata Knight Riders,bat first,410
+2014-04-20,Sharjah,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,2014,4,20,Wickets,7.0,Kings XI Punjab,field first,411
+2014-04-21,Abu Dhabi,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,2014,4,21,Runs,93.0,Chennai Super Kings,bat first,412
+2014-04-22,Sharjah,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,2014,4,22,Runs,72.0,Sunrisers Hyderabad,field first,413
+2014-04-23,Dubai (DSC),Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,2014,4,23,Runs,7.0,Rajasthan Royals,field first,414
+2014-04-24,Sharjah,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2014,4,24,Runs,2.0,Royal Challengers Bangalore,field first,415
+2014-04-25,Dubai (DSC),Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,2014,4,25,Runs,4.0,Sunrisers Hyderabad,bat first,416
+2014-04-25,Dubai (DSC),Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2014,4,25,Wickets,7.0,Mumbai Indians,bat first,417
+2014-04-26,Abu Dhabi,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,2014,4,26,Runs,23.0,Kolkata Knight Riders,field first,418
+2014-04-26,Abu Dhabi,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,2014,4,26,Wickets,6.0,Rajasthan Royals,field first,419
+2014-04-27,Sharjah,Delhi Capitals,Mumbai Indians,Delhi Capitals,2014,4,27,Wickets,6.0,Mumbai Indians,bat first,420
+2014-04-27,Sharjah,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,2014,4,27,Wickets,5.0,Sunrisers Hyderabad,bat first,421
+2014-04-28,Dubai (DSC),Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,2014,4,28,Wickets,5.0,Kings XI Punjab,field first,422
+2014-04-29,Abu Dhabi,Kolkata Knight Riders,Rajasthan Royals,tied,2014,4,29,,0.0,Rajasthan Royals,bat first,423
+2014-04-30,Dubai (DSC),Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,2014,4,30,Runs,15.0,Mumbai Indians,field first,424
+2014-05-02,Ranchi,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2014,5,2,Runs,34.0,Chennai Super Kings,bat first,425
+2014-05-03,Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,2014,5,3,Wickets,7.0,Rajasthan Royals,field first,426
+2014-05-03,Mumbai,Mumbai Indians,Kings XI Punjab,Mumbai Indians,2014,5,3,Wickets,5.0,Kings XI Punjab,bat first,427
+2014-05-04,Bengaluru,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,2014,5,4,Wickets,4.0,Royal Challengers Bangalore,field first,428
+2014-05-05,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2014,5,5,Runs,10.0,Kolkata Knight Riders,field first,429
+2014-05-05,Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,2014,5,5,Wickets,8.0,Chennai Super Kings,field first,430
+2014-05-06,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2014,5,6,Runs,19.0,Royal Challengers Bangalore,field first,431
+2014-05-07,Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,2014,5,7,Wickets,8.0,Delhi Capitals,bat first,432
+2014-05-07,Cuttack,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,2014,5,7,Runs,44.0,Chennai Super Kings,field first,433
+2014-05-08,Ahmedabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,2014,5,8,Runs,32.0,Rajasthan Royals,field first,434
+2014-05-09,Bengaluru,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,2014,5,9,Runs,32.0,Royal Challengers Bangalore,field first,435
+2014-05-10,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,2014,5,10,Wickets,8.0,Sunrisers Hyderabad,field first,436
+2014-05-10,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,2014,5,10,Wickets,4.0,Chennai Super Kings,field first,437
+2014-05-11,Cuttack,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2014,5,11,Wickets,9.0,Kolkata Knight Riders,field first,438
+2014-05-11,Bengaluru,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,2014,5,11,Wickets,5.0,Royal Challengers Bangalore,bat first,439
+2014-05-12,Hyderabad (Deccan),Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,2014,5,12,Wickets,7.0,Sunrisers Hyderabad,bat first,440
+2014-05-13,Ranchi,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2014,5,13,Wickets,5.0,Rajasthan Royals,bat first,441
+2014-05-13,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,2014,5,13,Runs,16.0,Delhi Capitals,field first,442
+2014-05-14,Hyderabad (Deccan),Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,2014,5,14,Wickets,6.0,Kings XI Punjab,field first,443
+2014-05-14,Cuttack,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,2014,5,14,Wickets,6.0,Kolkata Knight Riders,field first,444
+2014-05-15,Ahmedabad,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,2014,5,15,Runs,62.0,Delhi Capitals,field first,445
+2014-05-18,Ranchi,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,2014,5,18,Wickets,5.0,Chennai Super Kings,bat first,446
+2014-05-18,Hyderabad (Deccan),Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,2014,5,18,Wickets,7.0,Sunrisers Hyderabad,bat first,447
+2014-05-19,Ahmedabad,Rajasthan Royals,Mumbai Indians,Mumbai Indians,2014,5,19,Runs,25.0,Mumbai Indians,bat first,448
+2014-05-19,Delhi,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,2014,5,19,Wickets,4.0,Kings XI Punjab,field first,449
+2014-05-20,Hyderabad (Deccan),Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,2014,5,20,Wickets,7.0,Royal Challengers Bangalore,bat first,450
+2014-05-20,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,2014,5,20,Wickets,8.0,Kolkata Knight Riders,field first,451
+2014-05-21,Mohali,Kings XI Punjab,Mumbai Indians,Mumbai Indians,2014,5,21,Wickets,7.0,Mumbai Indians,field first,452
+2014-05-22,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2014,5,22,Runs,30.0,Royal Challengers Bangalore,field first,453
+2014-05-22,Ranchi,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,2014,5,22,Wickets,6.0,Sunrisers Hyderabad,field first,454
+2014-05-23,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,2014,5,23,Runs,15.0,Delhi Capitals,field first,455
+2014-05-23,Mohali,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,2014,5,23,Runs,16.0,Rajasthan Royals,field first,456
+2014-05-24,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,2014,5,24,Wickets,4.0,Kolkata Knight Riders,field first,457
+2014-05-24,Bengaluru,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,2014,5,24,Wickets,8.0,Chennai Super Kings,field first,458
+2014-05-25,Mohali,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,2014,5,25,Wickets,7.0,Kings XI Punjab,field first,459
+2014-05-25,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,2014,5,25,Wickets,5.0,Mumbai Indians,field first,460
+2014-05-28,Mumbai (BS),Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2014,5,28,Wickets,7.0,Chennai Super Kings,field first,461
+2014-05-30,Mumbai,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,2014,5,30,Runs,24.0,Chennai Super Kings,field first,462
+2014-06-01,Bengaluru,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2014,6,1,Wickets,3.0,Kolkata Knight Riders,field first,463
+2015-04-08,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,2015,4,8,Wickets,7.0,Kolkata Knight Riders,field first,464
+2015-04-09,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,2015,4,9,Runs,1.0,Delhi Capitals,field first,465
+2015-04-10,Pune,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,2015,4,10,Runs,26.0,Kings XI Punjab,field first,466
+2015-04-11,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,2015,4,11,Wickets,3.0,Royal Challengers Bangalore,field first,467
+2015-04-11,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,2015,4,11,Runs,45.0,Chennai Super Kings,bat first,468
+2015-04-12,Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,2015,4,12,Wickets,3.0,Rajasthan Royals,field first,469
+2015-04-12,Mumbai,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,2015,4,12,Runs,18.0,Mumbai Indians,field first,470
+2015-04-13,Bengaluru,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,2015,4,13,Wickets,8.0,Sunrisers Hyderabad,field first,471
+2015-04-14,Ahmedabad,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2015,4,14,Wickets,7.0,Mumbai Indians,bat first,472
+2015-04-15,Pune,Kings XI Punjab,Delhi Capitals,Delhi Capitals,2015,4,15,Wickets,5.0,Kings XI Punjab,bat first,473
+2015-04-16,Visakhapatnam,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,2015,4,16,Wickets,6.0,Rajasthan Royals,field first,474
+2015-04-17,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,2015,4,17,Wickets,6.0,Mumbai Indians,bat first,475
+2015-04-18,Visakhapatnam,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,2015,4,18,Runs,4.0,Delhi Capitals,bat first,476
+2015-04-18,Pune,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2015,4,18,Wickets,4.0,Kolkata Knight Riders,field first,477
+2015-04-19,Bengaluru,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2015,4,19,Runs,18.0,Royal Challengers Bangalore,field first,478
+2015-04-19,Ahmedabad,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2015,4,19,Wickets,8.0,Chennai Super Kings,bat first,479
+2015-04-20,Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,2015,4,20,Wickets,6.0,Kolkata Knight Riders,field first,480
+2015-04-21,Ahmedabad,Rajasthan Royals,Kings XI Punjab,tied,2015,4,21,,0.0,Kings XI Punjab,field first,481
+2015-04-22,Visakhapatnam,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,2015,4,22,Runs,16.0,Kolkata Knight Riders,field first,482
+2015-04-22,Bengaluru,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,2015,4,22,Runs,27.0,Royal Challengers Bangalore,field first,483
+2015-04-23,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,2015,4,23,Runs,37.0,Mumbai Indians,field first,484
+2015-04-24,Ahmedabad,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,2015,4,24,Wickets,9.0,Royal Challengers Bangalore,field first,485
+2015-04-25,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,2015,4,25,Runs,20.0,Mumbai Indians,bat first,486
+2015-04-25,Chennai,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2015,4,25,Runs,97.0,Chennai Super Kings,bat first,487
+2015-04-26,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,2015,4,26,Wickets,10.0,Royal Challengers Bangalore,field first,488
+2015-04-26,Kolkata,Kolkata Knight Riders,Rajasthan Royals,abandoned,2015,4,26,,0.0,no toss,no toss,489
+2015-04-27,Mohali,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,2015,4,27,Runs,20.0,Kings XI Punjab,field first,490
+2015-04-28,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2015,4,28,Runs,2.0,Kolkata Knight Riders,field first,491
+2015-04-29,Bengaluru,Royal Challengers Bangalore,Rajasthan Royals,no result,2015,4,29,,0.0,Rajasthan Royals,field first,492
+2015-04-30,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,2015,4,30,Wickets,7.0,Kolkata Knight Riders,field first,493
+2015-05-01,Delhi,Delhi Capitals,Kings XI Punjab,Delhi Capitals,2015,5,1,Wickets,9.0,Delhi Capitals,field first,494
+2015-05-01,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,2015,5,1,Runs,8.0,Rajasthan Royals,field first,495
+2015-05-02,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,2015,5,2,Wickets,7.0,Royal Challengers Bangalore,field first,496
+2015-05-02,Hyderabad (Deccan),Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,2015,5,2,Runs,22.0,Chennai Super Kings,field first,497
+2015-05-03,Mumbai (BS),Rajasthan Royals,Delhi Capitals,Rajasthan Royals,2015,5,3,Runs,14.0,Delhi Capitals,field first,498
+2015-05-03,Mohali,Kings XI Punjab,Mumbai Indians,Mumbai Indians,2015,5,3,Runs,23.0,Mumbai Indians,bat first,499
+2015-05-04,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,2015,5,4,Runs,35.0,Sunrisers Hyderabad,field first,500
+2015-05-04,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2015,5,4,Runs,24.0,Chennai Super Kings,bat first,501
+2015-05-05,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,2015,5,5,Wickets,5.0,Delhi Capitals,bat first,502
+2015-05-06,Bengaluru,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2015,5,6,Runs,138.0,Kings XI Punjab,field first,503
+2015-05-07,Mumbai (BS),Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,2015,5,7,Runs,7.0,Rajasthan Royals,field first,504
+2015-05-07,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,2015,5,7,Runs,13.0,Kolkata Knight Riders,bat first,505
+2015-05-08,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,2015,5,8,Wickets,6.0,Chennai Super Kings,bat first,506
+2015-05-09,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2015,5,9,Wickets,1.0,Kings XI Punjab,bat first,507
+2015-05-09,Raipur,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,2015,5,9,Runs,6.0,Sunrisers Hyderabad,bat first,508
+2015-05-10,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,2015,5,10,Runs,39.0,Royal Challengers Bangalore,bat first,509
+2015-05-10,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2015,5,10,Runs,12.0,Chennai Super Kings,bat first,510
+2015-05-11,Hyderabad (Deccan),Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,2015,5,11,Runs,5.0,Sunrisers Hyderabad,bat first,511
+2015-05-12,Raipur,Delhi Capitals,Chennai Super Kings,Delhi Capitals,2015,5,12,Wickets,6.0,Chennai Super Kings,bat first,512
+2015-05-13,Mohali,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,2015,5,13,Runs,22.0,Royal Challengers Bangalore,field first,513
+2015-05-14,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2015,5,14,Runs,5.0,Kolkata Knight Riders,field first,514
+2015-05-15,Hyderabad (Deccan),Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,2015,5,15,Wickets,6.0,Sunrisers Hyderabad,bat first,515
+2015-05-16,Mohali,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,2015,5,16,Wickets,7.0,Kings XI Punjab,bat first,516
+2015-05-16,Mumbai (BS),Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2015,5,16,Runs,9.0,Rajasthan Royals,bat first,517
+2015-05-17,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,no result,2015,5,17,,0.0,Royal Challengers Bangalore,field first,518
+2015-05-17,Hyderabad (Deccan),Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,2015,5,17,Wickets,9.0,Sunrisers Hyderabad,bat first,519
+2015-05-19,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,2015,5,19,Runs,25.0,Mumbai Indians,bat first,520
+2015-05-20,Pune,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,2015,5,20,Runs,71.0,Royal Challengers Bangalore,bat first,521
+2015-05-22,Ranchi,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2015,5,22,Wickets,3.0,Chennai Super Kings,field first,522
+2015-05-24,Kolkata,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2015,5,24,Runs,41.0,Chennai Super Kings,field first,523
+2016-04-09,Mumbai,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,2016,4,9,Wickets,9.0,Mumbai Indians,bat first,524
+2016-04-10,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,2016,4,10,Wickets,9.0,Kolkata Knight Riders,field first,525
+2016-04-11,Mohali,Kings XI Punjab,Gujarat Lions,Gujarat Lions,2016,4,11,Wickets,5.0,Gujarat Lions,field first,526
+2016-04-12,Bengaluru,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,2016,4,12,Runs,45.0,Sunrisers Hyderabad,field first,527
+2016-04-13,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2016,4,13,Wickets,6.0,Mumbai Indians,field first,528
+2016-04-14,Rajkot,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,2016,4,14,Wickets,7.0,Rising Pune Supergiants,bat first,529
+2016-04-15,Delhi,Delhi Capitals,Kings XI Punjab,Delhi Capitals,2016,4,15,Wickets,8.0,Delhi Capitals,field first,530
+2016-04-16,Mumbai,Mumbai Indians,Gujarat Lions,Gujarat Lions,2016,4,16,Wickets,3.0,Gujarat Lions,field first,531
+2016-04-16,Hyderabad (Deccan),Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,2016,4,16,Wickets,8.0,Sunrisers Hyderabad,bat first,532
+2016-04-17,Mohali,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,2016,4,17,Wickets,6.0,Rising Pune Supergiants,bat first,533
+2016-04-17,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,2016,4,17,Wickets,7.0,Delhi Capitals,field first,534
+2016-04-18,Hyderabad (Deccan),Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,2016,4,18,Wickets,7.0,Sunrisers Hyderabad,field first,535
+2016-04-19,Mohali,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2016,4,19,Wickets,6.0,Kolkata Knight Riders,field first,536
+2016-04-20,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2016,4,20,Wickets,6.0,Mumbai Indians,field first,537
+2016-04-21,Rajkot,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,2016,4,21,Wickets,10.0,Sunrisers Hyderabad,field first,538
+2016-04-22,Pune,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,2016,4,22,Runs,13.0,Rising Pune Supergiants,field first,539
+2016-04-23,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,2016,4,23,Runs,10.0,Mumbai Indians,field first,540
+2016-04-23,Hyderabad (Deccan),Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,2016,4,23,Wickets,5.0,Sunrisers Hyderabad,field first,541
+2016-04-24,Rajkot,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,2016,4,24,Wickets,6.0,Royal Challengers Bangalore,bat first,542
+2016-04-24,Pune,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,2016,4,24,Wickets,2.0,Kolkata Knight Riders,field first,543
+2016-04-25,Mohali,Kings XI Punjab,Mumbai Indians,Mumbai Indians,2016,4,25,Runs,25.0,Kings XI Punjab,field first,544
+2016-04-26,Hyderabad (Deccan),Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,2016,4,26,Runs,34.0,Rising Pune Supergiants,field first,545
+2016-04-27,Delhi,Delhi Capitals,Gujarat Lions,Gujarat Lions,2016,4,27,Runs,1.0,Delhi Capitals,field first,546
+2016-04-28,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2016,4,28,Wickets,6.0,Mumbai Indians,field first,547
+2016-04-29,Pune,Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,2016,4,29,Wickets,3.0,Gujarat Lions,field first,548
+2016-04-30,Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,2016,4,30,Runs,27.0,Kolkata Knight Riders,field first,549
+2016-04-30,Hyderabad (Deccan),Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,2016,4,30,Runs,15.0,Royal Challengers Bangalore,field first,550
+2016-05-01,Rajkot,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,2016,5,1,Runs,23.0,Gujarat Lions,field first,551
+2016-05-01,Pune,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,2016,5,1,Wickets,8.0,Mumbai Indians,field first,552
+2016-05-02,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2016,5,2,Wickets,5.0,Kolkata Knight Riders,field first,553
+2016-05-03,Rajkot,Gujarat Lions,Delhi Capitals,Delhi Capitals,2016,5,3,Wickets,8.0,Delhi Capitals,field first,554
+2016-05-04,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2016,5,4,Runs,7.0,Kings XI Punjab,field first,555
+2016-05-05,Delhi,Delhi Capitals,Rising Pune Supergiant,Rising Pune Supergiant,2016,5,5,Wickets,7.0,Rising Pune Supergiants,field first,556
+2016-05-06,Hyderabad (Deccan),Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,2016,5,6,Wickets,5.0,Sunrisers Hyderabad,field first,557
+2016-05-07,Bengaluru,Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,2016,5,7,Wickets,7.0,Royal Challengers Bangalore,field first,558
+2016-05-07,Mohali,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,2016,5,7,Runs,9.0,Delhi Capitals,field first,559
+2016-05-08,Kolkata,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,2016,5,8,Wickets,5.0,Gujarat Lions,field first,560
+2016-05-08,Visakhapatnam,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,2016,5,8,Runs,85.0,Mumbai Indians,field first,561
+2016-05-09,Mohali,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,2016,5,9,Runs,1.0,Kings XI Punjab,field first,562
+2016-05-10,Visakhapatnam,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,2016,5,10,Runs,4.0,Sunrisers Hyderabad,bat first,563
+2016-05-11,Bengaluru,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2016,5,11,Wickets,6.0,Mumbai Indians,field first,564
+2016-05-12,Hyderabad (Deccan),Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,2016,5,12,Wickets,7.0,Delhi Capitals,field first,565
+2016-05-13,Visakhapatnam,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,2016,5,13,Wickets,7.0,Mumbai Indians,bat first,566
+2016-05-14,Bengaluru,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,2016,5,14,Runs,144.0,Gujarat Lions,field first,567
+2016-05-14,Kolkata,Kolkata Knight Riders,Rising Pune Supergiant,Kolkata Knight Riders,2016,5,14,Wickets,8.0,Rising Pune Supergiants,bat first,568
+2016-05-15,Mohali,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,2016,5,15,Wickets,7.0,Kings XI Punjab,bat first,569
+2016-05-15,Visakhapatnam,Mumbai Indians,Delhi Capitals,Mumbai Indians,2016,5,15,Runs,80.0,Delhi Capitals,field first,570
+2016-05-16,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,2016,5,16,Wickets,9.0,Royal Challengers Bangalore,field first,571
+2016-05-17,Visakhapatnam,Rising Pune Supergiant,Delhi Capitals,Rising Pune Supergiant,2016,5,17,Runs,19.0,Rising Pune Supergiants,field first,572
+2016-05-18,Bengaluru,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2016,5,18,Runs,82.0,Kings XI Punjab,field first,573
+2016-05-19,Kanpur,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,2016,5,19,Wickets,6.0,Gujarat Lions,field first,574
+2016-05-20,Raipur,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,2016,5,20,Wickets,6.0,Delhi Capitals,field first,575
+2016-05-21,Visakhapatnam,Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,2016,5,21,Wickets,4.0,Kings XI Punjab,bat first,576
+2016-05-21,Kanpur,Gujarat Lions,Mumbai Indians,Gujarat Lions,2016,5,21,Wickets,6.0,Gujarat Lions,field first,577
+2016-05-22,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,2016,5,22,Runs,22.0,Sunrisers Hyderabad,field first,578
+2016-05-22,Raipur,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,2016,5,22,Wickets,6.0,Royal Challengers Bangalore,field first,579
+2016-05-24,Bengaluru,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,2016,5,24,Wickets,4.0,Royal Challengers Bangalore,field first,580
+2016-05-25,Delhi,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,2016,5,25,Runs,22.0,Kolkata Knight Riders,field first,581
+2016-05-27,Delhi,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,2016,5,27,Wickets,4.0,Sunrisers Hyderabad,field first,582
+2016-05-29,Bengaluru,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,2016,5,29,Runs,8.0,Sunrisers Hyderabad,bat first,583
+2017-04-05,Hyderabad (Deccan),Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,2017,4,5,Runs,35.0,Royal Challengers Bangalore,field first,584
+2017-04-06,Pune,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,2017,4,6,Wickets,7.0,Rising Pune Supergiant,field first,585
+2017-04-07,Rajkot,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,2017,4,7,Wickets,10.0,Kolkata Knight Riders,field first,586
+2017-04-08,Indore,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,2017,4,8,Wickets,6.0,Kings XI Punjab,field first,587
+2017-04-08,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,2017,4,8,Runs,15.0,Royal Challengers Bangalore,bat first,588
+2017-04-09,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2017,4,9,Wickets,4.0,Mumbai Indians,field first,589
+2017-04-09,Hyderabad (Deccan),Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,2017,4,9,Wickets,9.0,Sunrisers Hyderabad,field first,590
+2017-04-10,Indore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,2017,4,10,Wickets,8.0,Royal Challengers Bangalore,bat first,591
+2017-04-11,Pune,Rising Pune Supergiant,Delhi Capitals,Delhi Capitals,2017,4,11,Runs,97.0,Rising Pune Supergiant,field first,592
+2017-04-12,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,2017,4,12,Wickets,4.0,Mumbai Indians,field first,593
+2017-04-13,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2017,4,13,Wickets,8.0,Kolkata Knight Riders,field first,594
+2017-04-14,Bengaluru,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2017,4,14,Wickets,4.0,Mumbai Indians,field first,595
+2017-04-14,Rajkot,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,2017,4,14,Wickets,7.0,Gujarat Lions,field first,596
+2017-04-15,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,2017,4,15,Runs,17.0,Sunrisers Hyderabad,field first,597
+2017-04-15,Delhi,Delhi Capitals,Kings XI Punjab,Delhi Capitals,2017,4,15,Runs,51.0,Delhi Capitals,bat first,598
+2017-04-16,Mumbai,Mumbai Indians,Gujarat Lions,Mumbai Indians,2017,4,16,Wickets,6.0,Mumbai Indians,field first,599
+2017-04-16,Bengaluru,Royal Challengers Bangalore,Rising Pune Supergiant,Rising Pune Supergiant,2017,4,16,Runs,27.0,Royal Challengers Bangalore,field first,600
+2017-04-17,Delhi,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,2017,4,17,Wickets,4.0,Delhi Capitals,bat first,601
+2017-04-17,Hyderabad (Deccan),Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,2017,4,17,Runs,5.0,Kings XI Punjab,field first,602
+2017-04-18,Rajkot,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,2017,4,18,Runs,21.0,Gujarat Lions,field first,603
+2017-04-19,Hyderabad (Deccan),Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,2017,4,19,Runs,15.0,Sunrisers Hyderabad,bat first,604
+2017-04-20,Indore,Kings XI Punjab,Mumbai Indians,Mumbai Indians,2017,4,20,Wickets,8.0,Mumbai Indians,field first,605
+2017-04-21,Kolkata,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,2017,4,21,Wickets,4.0,Gujarat Lions,field first,606
+2017-04-22,Pune,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,2017,4,22,Wickets,6.0,Rising Pune Supergiant,field first,607
+2017-04-22,Mumbai,Mumbai Indians,Delhi Capitals,Mumbai Indians,2017,4,22,Runs,14.0,Delhi Capitals,field first,608
+2017-04-23,Rajkot,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,2017,4,23,Runs,26.0,Gujarat Lions,field first,609
+2017-04-23,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2017,4,23,Runs,82.0,Royal Challengers Bangalore,field first,610
+2017-04-24,Mumbai,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,2017,4,24,Runs,3.0,Mumbai Indians,field first,611
+2017-04-25,Bengaluru,Royal Challengers Bangalore,Sunrisers Hyderabad,abandoned,2017,4,25,,0.0,no toss,no toss,612
+2017-04-26,Pune,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,2017,4,26,Wickets,7.0,Kolkata Knight Riders,field first,613
+2017-04-27,Bengaluru,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,2017,4,27,Wickets,7.0,Gujarat Lions,field first,614
+2017-04-28,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,2017,4,28,Wickets,7.0,Kolkata Knight Riders,field first,615
+2017-04-28,Mohali,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,2017,4,28,Runs,26.0,Kings XI Punjab,field first,616
+2017-04-29,Rajkot,Gujarat Lions,Mumbai Indians,tied,2017,4,29,,0.0,Gujarat Lions,bat first,617
+2017-04-29,Pune,Rising Pune Supergiant,Royal Challengers Bangalore,Rising Pune Supergiant,2017,4,29,Runs,61.0,Royal Challengers Bangalore,field first,618
+2017-04-30,Mohali,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,2017,4,30,Wickets,10.0,Kings XI Punjab,field first,619
+2017-04-30,Hyderabad (Deccan),Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,2017,4,30,Runs,48.0,Kolkata Knight Riders,field first,620
+2017-05-01,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2017,5,1,Wickets,5.0,Royal Challengers Bangalore,bat first,621
+2017-05-01,Pune,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,2017,5,1,Wickets,5.0,Rising Pune Supergiant,field first,622
+2017-05-02,Delhi,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,2017,5,2,Wickets,6.0,Delhi Capitals,field first,623
+2017-05-03,Kolkata,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,2017,5,3,Wickets,4.0,Rising Pune Supergiant,field first,624
+2017-05-04,Delhi,Delhi Capitals,Gujarat Lions,Delhi Capitals,2017,5,4,Wickets,7.0,Delhi Capitals,field first,625
+2017-05-05,Bengaluru,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,2017,5,5,Runs,19.0,Royal Challengers Bangalore,field first,626
+2017-05-06,Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,2017,5,6,Runs,146.0,Delhi Capitals,field first,627
+2017-05-06,Hyderabad (Deccan),Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,2017,5,6,Runs,12.0,Sunrisers Hyderabad,field first,628
+2017-05-07,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2017,5,7,Wickets,6.0,Kolkata Knight Riders,field first,629
+2017-05-07,Mohali,Kings XI Punjab,Gujarat Lions,Gujarat Lions,2017,5,7,Wickets,6.0,Gujarat Lions,field first,630
+2017-05-08,Hyderabad (Deccan),Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,2017,5,8,Wickets,7.0,Mumbai Indians,bat first,631
+2017-05-09,Mohali,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,2017,5,9,Runs,14.0,Kolkata Knight Riders,field first,632
+2017-05-10,Kanpur,Gujarat Lions,Delhi Capitals,Delhi Capitals,2017,5,10,Wickets,2.0,Delhi Capitals,field first,633
+2017-05-11,Mumbai,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,2017,5,11,Runs,7.0,Mumbai Indians,field first,634
+2017-05-12,Delhi,Delhi Capitals,Rising Pune Supergiant,Delhi Capitals,2017,5,12,Runs,7.0,Delhi Capitals,bat first,635
+2017-05-13,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2017,5,13,Runs,9.0,Kolkata Knight Riders,field first,636
+2017-05-13,Kanpur,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,2017,5,13,Wickets,8.0,Sunrisers Hyderabad,field first,637
+2017-05-14,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,2017,5,14,Runs,10.0,Royal Challengers Bangalore,bat first,638
+2017-05-14,Pune,Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,2017,5,14,Wickets,9.0,Rising Pune Supergiant,field first,639
+2017-05-16,Mumbai,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,2017,5,16,Runs,20.0,Mumbai Indians,field first,640
+2017-05-17,Bengaluru,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,2017,5,17,Wickets,7.0,Kolkata Knight Riders,field first,641
+2017-05-19,Bengaluru,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2017,5,19,Wickets,6.0,Mumbai Indians,field first,642
+2017-05-21,Hyderabad (Deccan),Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,2017,5,21,Runs,1.0,Mumbai Indians,bat first,643
+2018-04-07,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,2018,4,7,Wickets,1.0,Chennai Super Kings,field first,644
+2018-04-08,Mohali,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,2018,4,8,Wickets,6.0,Kings XI Punjab,field first,645
+2018-04-08,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2018,4,8,Wickets,4.0,Kolkata Knight Riders,field first,646
+2018-04-09,Hyderabad (Deccan),Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,2018,4,9,Wickets,9.0,Sunrisers Hyderabad,field first,647
+2018-04-10,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2018,4,10,Wickets,5.0,Chennai Super Kings,field first,648
+2018-04-11,Jaipur,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,2018,4,11,Runs,10.0,Delhi Capitals,field first,649
+2018-04-12,Hyderabad (Deccan),Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,2018,4,12,Wickets,1.0,Sunrisers Hyderabad,field first,650
+2018-04-13,Bengaluru,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2018,4,13,Wickets,4.0,Royal Challengers Bangalore,field first,651
+2018-04-14,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,2018,4,14,Wickets,7.0,Delhi Capitals,field first,652
+2018-04-14,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,2018,4,14,Wickets,5.0,Sunrisers Hyderabad,field first,653
+2018-04-15,Bengaluru,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,2018,4,15,Runs,19.0,Royal Challengers Bangalore,field first,654
+2018-04-15,Mohali,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,2018,4,15,Runs,4.0,Chennai Super Kings,field first,655
+2018-04-16,Kolkata,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,2018,4,16,Runs,71.0,Delhi Capitals,field first,656
+2018-04-17,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2018,4,17,Runs,46.0,Royal Challengers Bangalore,field first,657
+2018-04-18,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,2018,4,18,Wickets,7.0,Kolkata Knight Riders,field first,658
+2018-04-19,Mohali,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,2018,4,19,Runs,15.0,Kings XI Punjab,bat first,659
+2018-04-20,Pune,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2018,4,20,Runs,64.0,Rajasthan Royals,field first,660
+2018-04-21,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,2018,4,21,Wickets,9.0,Kings XI Punjab,field first,661
+2018-04-21,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,2018,4,21,Wickets,6.0,Royal Challengers Bangalore,field first,662
+2018-04-22,Hyderabad (Deccan),Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,2018,4,22,Runs,4.0,Sunrisers Hyderabad,field first,663
+2018-04-22,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2018,4,22,Wickets,3.0,Mumbai Indians,bat first,664
+2018-04-23,Delhi,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,2018,4,23,Runs,4.0,Delhi Capitals,field first,665
+2018-04-24,Mumbai,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,2018,4,24,Runs,31.0,Mumbai Indians,field first,666
+2018-04-25,Bengaluru,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,2018,4,25,Wickets,5.0,Chennai Super Kings,field first,667
+2018-04-26,Hyderabad (Deccan),Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,2018,4,26,Runs,13.0,Kings XI Punjab,field first,668
+2018-04-27,Delhi,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,2018,4,27,Runs,55.0,Kolkata Knight Riders,field first,669
+2018-04-28,Pune,Chennai Super Kings,Mumbai Indians,Mumbai Indians,2018,4,28,Wickets,8.0,Mumbai Indians,field first,670
+2018-04-29,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2018,4,29,Wickets,6.0,Kolkata Knight Riders,field first,671
+2018-04-29,Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,2018,4,29,Runs,11.0,Sunrisers Hyderabad,bat first,672
+2018-04-30,Pune,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,2018,4,30,Runs,13.0,Delhi Capitals,field first,673
+2018-05-01,Bengaluru,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2018,5,1,Runs,14.0,Mumbai Indians,field first,674
+2018-05-02,Delhi,Delhi Capitals,Rajasthan Royals,Delhi Capitals,2018,5,2,Runs,4.0,Rajasthan Royals,field first,675
+2018-05-03,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,2018,5,3,Wickets,6.0,Kolkata Knight Riders,field first,676
+2018-05-04,Indore,Kings XI Punjab,Mumbai Indians,Mumbai Indians,2018,5,4,Wickets,6.0,Mumbai Indians,field first,677
+2018-05-05,Pune,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2018,5,5,Wickets,6.0,Chennai Super Kings,field first,678
+2018-05-05,Hyderabad (Deccan),Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,2018,5,5,Wickets,7.0,Delhi Capitals,bat first,679
+2018-05-06,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2018,5,6,Runs,13.0,Kolkata Knight Riders,field first,680
+2018-05-06,Indore,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,2018,5,6,Wickets,6.0,Kings XI Punjab,field first,681
+2018-05-07,Hyderabad (Deccan),Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,2018,5,7,Runs,5.0,Royal Challengers Bangalore,field first,682
+2018-05-08,Jaipur,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,2018,5,8,Runs,15.0,Rajasthan Royals,bat first,683
+2018-05-09,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,2018,5,9,Runs,102.0,Kolkata Knight Riders,field first,684
+2018-05-10,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,2018,5,10,Wickets,9.0,Delhi Capitals,bat first,685
+2018-05-11,Jaipur,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2018,5,11,Wickets,4.0,Chennai Super Kings,bat first,686
+2018-05-12,Indore,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2018,5,12,Runs,31.0,Kings XI Punjab,field first,687
+2018-05-12,Delhi,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,2018,5,12,Wickets,5.0,Royal Challengers Bangalore,field first,688
+2018-05-13,Pune,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,2018,5,13,Wickets,8.0,Chennai Super Kings,field first,689
+2018-05-13,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,2018,5,13,Wickets,7.0,Rajasthan Royals,field first,690
+2018-05-14,Indore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,2018,5,14,Wickets,10.0,Royal Challengers Bangalore,field first,691
+2018-05-15,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,2018,5,15,Wickets,6.0,Kolkata Knight Riders,field first,692
+2018-05-16,Mumbai,Mumbai Indians,Kings XI Punjab,Mumbai Indians,2018,5,16,Runs,3.0,Kings XI Punjab,field first,693
+2018-05-17,Bengaluru,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,2018,5,17,Runs,14.0,Sunrisers Hyderabad,field first,694
+2018-05-18,Delhi,Delhi Capitals,Chennai Super Kings,Delhi Capitals,2018,5,18,Runs,34.0,Chennai Super Kings,field first,695
+2018-05-19,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,2018,5,19,Runs,30.0,Rajasthan Royals,bat first,696
+2018-05-19,Hyderabad (Deccan),Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,2018,5,19,Wickets,5.0,Sunrisers Hyderabad,bat first,697
+2018-05-20,Delhi,Delhi Capitals,Mumbai Indians,Delhi Capitals,2018,5,20,Runs,11.0,Delhi Capitals,bat first,698
+2018-05-20,Pune,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2018,5,20,Wickets,5.0,Chennai Super Kings,field first,699
+2018-05-22,Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,2018,5,22,Wickets,2.0,Chennai Super Kings,field first,700
+2018-05-23,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,2018,5,23,Runs,25.0,Rajasthan Royals,field first,701
+2018-05-25,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,2018,5,25,Runs,14.0,Kolkata Knight Riders,field first,702
+2018-05-27,Mumbai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,2018,5,27,Wickets,8.0,Chennai Super Kings,field first,703
+2019-03-23,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2019,3,23,Wickets,7.0,Chennai Super Kings,field first,704
+2019-03-24,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,2019,3,24,Runs,37.0,Mumbai Indians,field first,705
+2019-03-24,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,2019,3,24,Wickets,6.0,Kolkata Knight Riders,field first,706
+2019-03-25,Jaipur,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,2019,3,25,Runs,14.0,Rajasthan Royals,field first,707
+2019-03-26,Delhi,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,2019,3,26,Wickets,6.0,Delhi Capitals,bat first,708
+2019-03-27,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2019,3,27,Runs,28.0,Kings XI Punjab,field first,709
+2019-03-28,Bengaluru,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,2019,3,28,Runs,6.0,Royal Challengers Bangalore,field first,710
+2019-03-29,Hyderabad (Deccan),Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,2019,3,29,Wickets,5.0,Rajasthan Royals,bat first,711
+2019-03-30,Mohali,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2019,3,30,Wickets,8.0,Kings XI Punjab,field first,712
+2019-03-30,Delhi,Delhi Capitals,Kolkata Knight Riders,tied,2019,3,30,,0.0,Delhi Capitals,field first,713
+2019-03-31,Hyderabad (Deccan),Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,2019,3,31,Runs,118.0,Royal Challengers Bangalore,field first,714
+2019-03-31,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2019,3,31,Runs,8.0,Rajasthan Royals,field first,715
+2019-04-01,Mohali,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,2019,4,1,Runs,14.0,Delhi Capitals,field first,716
+2019-04-02,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,2019,4,2,Wickets,7.0,Rajasthan Royals,field first,717
+2019-04-03,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2019,4,3,Runs,37.0,Chennai Super Kings,field first,718
+2019-04-04,Delhi,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,2019,4,4,Wickets,5.0,Sunrisers Hyderabad,field first,719
+2019-04-05,Bengaluru,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2019,4,5,Wickets,5.0,Kolkata Knight Riders,field first,720
+2019-04-06,Chennai,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2019,4,6,Runs,22.0,Chennai Super Kings,bat first,721
+2019-04-06,Hyderabad (Deccan),Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,2019,4,6,Runs,40.0,Sunrisers Hyderabad,field first,722
+2019-04-07,Bengaluru,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,2019,4,7,Wickets,4.0,Delhi Capitals,field first,723
+2019-04-07,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,2019,4,7,Wickets,8.0,Kolkata Knight Riders,field first,724
+2019-04-08,Mohali,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,2019,4,8,Wickets,6.0,Kings XI Punjab,field first,725
+2019-04-09,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2019,4,9,Wickets,7.0,Chennai Super Kings,field first,726
+2019-04-10,Mumbai,Mumbai Indians,Kings XI Punjab,Mumbai Indians,2019,4,10,Wickets,3.0,Mumbai Indians,field first,727
+2019-04-11,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,2019,4,11,Wickets,4.0,Chennai Super Kings,field first,728
+2019-04-12,Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,2019,4,12,Wickets,7.0,Delhi Capitals,field first,729
+2019-04-13,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,2019,4,13,Wickets,4.0,Rajasthan Royals,field first,730
+2019-04-13,Mohali,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,2019,4,13,Wickets,8.0,Royal Challengers Bangalore,field first,731
+2019-04-14,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,2019,4,14,Wickets,5.0,Chennai Super Kings,field first,732
+2019-04-14,Hyderabad (Deccan),Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,2019,4,14,Runs,39.0,Sunrisers Hyderabad,field first,733
+2019-04-15,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2019,4,15,Wickets,5.0,Mumbai Indians,field first,734
+2019-04-16,Mohali,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,2019,4,16,Runs,12.0,Rajasthan Royals,field first,735
+2019-04-17,Hyderabad (Deccan),Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,2019,4,17,Wickets,6.0,Chennai Super Kings,bat first,736
+2019-04-18,Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,2019,4,18,Runs,40.0,Mumbai Indians,bat first,737
+2019-04-19,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,2019,4,19,Runs,10.0,Kolkata Knight Riders,field first,738
+2019-04-20,Delhi,Delhi Capitals,Kings XI Punjab,Delhi Capitals,2019,4,20,Wickets,5.0,Delhi Capitals,field first,739
+2019-04-20,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2019,4,20,Wickets,5.0,Rajasthan Royals,field first,740
+2019-04-21,Hyderabad (Deccan),Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,2019,4,21,Wickets,9.0,Sunrisers Hyderabad,field first,741
+2019-04-21,Bengaluru,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2019,4,21,Runs,1.0,Chennai Super Kings,field first,742
+2019-04-22,Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,2019,4,22,Wickets,6.0,Delhi Capitals,field first,743
+2019-04-23,Chennai,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,2019,4,23,Wickets,6.0,Chennai Super Kings,field first,744
+2019-04-24,Bengaluru,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2019,4,24,Runs,17.0,Kings XI Punjab,field first,745
+2019-04-25,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,2019,4,25,Wickets,3.0,Rajasthan Royals,field first,746
+2019-04-26,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,2019,4,26,Runs,46.0,Chennai Super Kings,field first,747
+2019-04-27,Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,2019,4,27,Wickets,7.0,Rajasthan Royals,field first,748
+2019-04-28,Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,2019,4,28,Runs,16.0,Delhi Capitals,bat first,749
+2019-04-28,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,2019,4,28,Runs,34.0,Mumbai Indians,field first,750
+2019-04-29,Hyderabad (Deccan),Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,2019,4,29,Runs,45.0,Kings XI Punjab,field first,751
+2019-04-30,Bengaluru,Royal Challengers Bangalore,Rajasthan Royals,no result,2019,4,30,,0.0,Rajasthan Royals,field first,752
+2019-05-01,Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,2019,5,1,Runs,80.0,Delhi Capitals,field first,753
+2019-05-02,Mumbai,Mumbai Indians,Sunrisers Hyderabad,tied,2019,5,2,,0.0,Mumbai Indians,bat first,754
+2019-05-03,Mohali,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2019,5,3,Wickets,7.0,Kolkata Knight Riders,field first,755
+2019-05-04,Delhi,Delhi Capitals,Rajasthan Royals,Delhi Capitals,2019,5,4,Wickets,5.0,Rajasthan Royals,bat first,756
+2019-05-04,Bengaluru,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,2019,5,4,Wickets,4.0,Royal Challengers Bangalore,field first,757
+2019-05-05,Mohali,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,2019,5,5,Wickets,6.0,Kings XI Punjab,field first,758
+2019-05-05,Mumbai,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2019,5,5,Wickets,9.0,Mumbai Indians,field first,759
+2019-05-07,Chennai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2019,5,7,Wickets,6.0,Chennai Super Kings,bat first,760
+2019-05-08,Visakhapatnam,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,2019,5,8,Wickets,2.0,Delhi Capitals,field first,761
+2019-05-10,Visakhapatnam,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,2019,5,10,Wickets,6.0,Chennai Super Kings,field first,762
+2019-05-12,Hyderabad (Deccan),Mumbai Indians,Chennai Super Kings,Mumbai Indians,2019,5,12,Runs,1.0,Mumbai Indians,bat first,763
